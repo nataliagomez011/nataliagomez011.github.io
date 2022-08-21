@@ -24,6 +24,8 @@ h2 { background-color: #c4c4c4;
 .datos {font-style: italic;
 font-weight: bold;}
 
+p{font-family: Comic Sans MS,arial}
+
 li {font-family: Comic Sans MS,arial;
     font-style: normal;
     font-size: 15px;
