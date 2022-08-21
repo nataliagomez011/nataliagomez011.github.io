@@ -1,0 +1,45 @@
+header { background-image: url(../Img/Noche.jpg);
+    width: 40;
+    text-align: center;}
+
+h1 {background-color: #c4c4c4;
+text-align: center;
+text-transform: uppercase;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+font-size: 35;
+line-height: 29.64px;
+color: #005677;}
+
+h2 { background-color: #c4c4c4;
+    background-size: 60px;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 16.94px;
+    color: #005677;}
+
+.datos {font-style: italic;
+font-weight: bold;}
+
+li {font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 15px;
+    Line-height: 22px;}
+
+.fecha {font-family: 'Times New Roman', Times, serif;
+font-weight: 400;
+font-size: 15px;
+line-height: 0px;
+font-weight: bold;}    
+
+.experiencia {margin-left: 70px;
+font-weight: normal;
+line-height: 0px;}
+
+footer{background-color: #005677;
+text-align: center;
+color: #ffffff;
+}
