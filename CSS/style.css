@@ -5,7 +5,7 @@ header { background-image: url(../Img/Noche.jpg);
 h1 {background-color: #c4c4c4;
 text-align: center;
 text-transform: uppercase;
-font-family: 'Times New Roman', Times, serif;
+font-family: Comic Sans MS,arial;
 font-weight: 800;
 font-size: 35;
 line-height: 29.64px;
@@ -15,7 +15,7 @@ h2 { background-color: #c4c4c4;
     background-size: 60px;
     text-align: left;
     text-transform: uppercase;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Comic Sans MS,arial;
     font-weight: bold;
     font-size: 20px;
     line-height: 16.94px;
@@ -24,12 +24,12 @@ h2 { background-color: #c4c4c4;
 .datos {font-style: italic;
 font-weight: bold;}
 
-li {font-family: 'Times New Roman', Times, serif;
+li {font-family: Comic Sans MS,arial;
     font-style: normal;
     font-size: 15px;
     Line-height: 22px;}
 
-.fecha {font-family: 'Times New Roman', Times, serif;
+.fecha {font-family: Comic Sans MS,arial;
 font-weight: 400;
 font-size: 15px;
 line-height: 0px;
